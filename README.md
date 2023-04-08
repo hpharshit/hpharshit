@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 <h1 align="center">Hi 👋, I'm Harshit Pandey</h1>
 <h3 align="center">A passionate Fullstack Mern developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
